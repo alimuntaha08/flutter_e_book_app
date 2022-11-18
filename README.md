@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Silahkan digunakan buat belajar. Semoga bermanfaat
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
